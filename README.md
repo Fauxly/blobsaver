@@ -18,7 +18,7 @@ A cross-platform GUI and CLI for automatically saving SHSH blobs. [Download](htt
 - Automate all features with the CLI
 - Save blobs to TSS Saver and SHSH Host as well with one click
 
-## Nightly Builds
+## Nightly Build
 
 You can get the latest nightly build [here](https://nightly.link/airsquared/blobsaver/workflows/main/master) or get older nightly builds at [Actions](https://github.com/airsquared/blobsaver/actions).
 
